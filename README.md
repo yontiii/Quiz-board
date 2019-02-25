@@ -33,7 +33,7 @@ You can retake the test if your results don't satisfy your expectations.
 |if the user scores less than 50 |filled questions|This is not good.Try again
 
 ## TECHNOLOGIES USED
-The main languages used were **HTML**, **CSS** and **JAVASCRIPT** and **JQUERY**
+The main languages used were **HTML**,**CSS** and **JavaScript**
 
 ## CONTACT INFORMATION
 By me some tea through my email address : <muasajohn01@gmail.com>
